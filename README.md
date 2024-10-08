@@ -15,3 +15,5 @@ Click the + box and add the first script.
 Click the + box and add the second script.
 
 A permissions notification will pop up. Press "Ok"
+
+Note- when using with Dropbox folders, the dropbox folders need to be set to "Available offline"
