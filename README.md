@@ -17,3 +17,5 @@ Click the + box and add the second script.
 A permissions notification will pop up. Press "Ok"
 
 Note- when using with Dropbox folders, the dropbox folders need to be set to "Available offline"
+Other Note- make sure that Music/iTunes is not copying files into the media library under Settings->Files-> uncheck
+the box that says "Copy files to Music Media folder when adding to library"
